@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|c:\\users\\vanyzy\\source\\repos\\k22cntt4-ttcd1-ledoanquocvan-2210900078\\levcarstore\\levcarstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|solutionrelative:levcarstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\levcarstore\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|solutionrelative:levcarstore\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\levcarstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|solutionrelative:levcarstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\levcarstore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|solutionrelative:levcarstore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\levcarstore\\views\\sanpham\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|solutionrelative:levcarstore\\views\\sanpham\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\levcarstore\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|solutionrelative:levcarstore\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\levcarstore\\models\\levcarstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|solutionrelative:levcarstore\\models\\levcarstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\levcarstore\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|solutionrelative:levcarstore\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\levcarstore\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|solutionrelative:levcarstore\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\levcarstore\\views\\giohang\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|solutionrelative:levcarstore\\views\\giohang\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\levcarstore\\views\\thanhtoan\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|solutionrelative:levcarstore\\views\\thanhtoan\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\levcarstore\\migrations\\202411041947028_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|solutionrelative:levcarstore\\migrations\\202411041947028_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\levcarstore\\migrations\\202411041946184_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|solutionrelative:levcarstore\\migrations\\202411041946184_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\levcarstore\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|solutionrelative:levcarstore\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\levcarstore\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|solutionrelative:levcarstore\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\levcarstore\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|solutionrelative:levcarstore\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\levcarstore\\models\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|solutionrelative:levcarstore\\models\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\levcarstore\\models\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|solutionrelative:levcarstore\\models\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\levcarstore\\models\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|solutionrelative:levcarstore\\models\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\levcarstore\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|solutionrelative:levcarstore\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\levcarstore\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|solutionrelative:levcarstore\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\levcarstore\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B126C4AD-C45A-496C-9887-74B361920289}|LeVCarStore\\LeVCarStore.csproj|solutionrelative:levcarstore\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LeVCarStore\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LeVCarStore\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T13:29:30.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "LeVCarStore\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "LeVCarStore\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:28:47.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LeVCarStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LeVCarStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T19:58:47.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LeVCarStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LeVCarStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T20:05:13.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Views\\ThanhToan\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "LeVCarStore\\Views\\ThanhToan\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Views\\ThanhToan\\Checkout.cshtml",
+              "RelativeToolTip": "LeVCarStore\\Views\\ThanhToan\\Checkout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T20:04:48.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Views\\GioHang\\Cart.cshtml",
+              "RelativeDocumentMoniker": "LeVCarStore\\Views\\GioHang\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Views\\GioHang\\Cart.cshtml",
+              "RelativeToolTip": "LeVCarStore\\Views\\GioHang\\Cart.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T20:03:47.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Views\\SanPham\\Details.cshtml",
+              "RelativeDocumentMoniker": "LeVCarStore\\Views\\SanPham\\Details.cshtml",
+              "ToolTip": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Views\\SanPham\\Details.cshtml",
+              "RelativeToolTip": "LeVCarStore\\Views\\SanPham\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T20:02:38.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Views\\SanPham\\Index.cshtml",
+              "RelativeDocumentMoniker": "LeVCarStore\\Views\\SanPham\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Views\\SanPham\\Index.cshtml",
+              "RelativeToolTip": "LeVCarStore\\Views\\SanPham\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T20:02:03.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "LeVCarStore\\Controllers\\SanPhamController.cs",
+              "ToolTip": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "LeVCarStore\\Controllers\\SanPhamController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:50:35.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "202411041947028_InitialCreate1.cs",
+              "DocumentMoniker": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Migrations\\202411041947028_InitialCreate1.cs",
+              "RelativeDocumentMoniker": "LeVCarStore\\Migrations\\202411041947028_InitialCreate1.cs",
+              "ToolTip": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Migrations\\202411041947028_InitialCreate1.cs",
+              "RelativeToolTip": "LeVCarStore\\Migrations\\202411041947028_InitialCreate1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:47:07.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "202411041946184_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Migrations\\202411041946184_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LeVCarStore\\Migrations\\202411041946184_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Migrations\\202411041946184_InitialCreate.cs",
+              "RelativeToolTip": "LeVCarStore\\Migrations\\202411041946184_InitialCreate.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:46:31.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "LeVCarStore\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "LeVCarStore\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:46:04.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChiTietDonHang.cs",
+              "DocumentMoniker": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Models\\ChiTietDonHang.cs",
+              "RelativeDocumentMoniker": "LeVCarStore\\Models\\ChiTietDonHang.cs",
+              "ToolTip": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Models\\ChiTietDonHang.cs",
+              "RelativeToolTip": "LeVCarStore\\Models\\ChiTietDonHang.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:41:32.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeVCarStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Models\\LeVCarStoreContext.cs",
+              "RelativeDocumentMoniker": "LeVCarStore\\Models\\LeVCarStoreContext.cs",
+              "ToolTip": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Models\\LeVCarStoreContext.cs",
+              "RelativeToolTip": "LeVCarStore\\Models\\LeVCarStoreContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:27:54.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "LeVCarStore\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "LeVCarStore\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T20:19:53.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DonHang.cs",
+              "DocumentMoniker": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Models\\DonHang.cs",
+              "RelativeDocumentMoniker": "LeVCarStore\\Models\\DonHang.cs",
+              "ToolTip": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Models\\DonHang.cs",
+              "RelativeToolTip": "LeVCarStore\\Models\\DonHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:40:37.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Web.config",
+              "RelativeDocumentMoniker": "LeVCarStore\\Web.config",
+              "ToolTip": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Web.config",
+              "RelativeToolTip": "LeVCarStore\\Web.config",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-04T18:55:15.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "LeVCarStore\\Models\\KhachHang.cs",
+              "ToolTip": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Models\\KhachHang.cs",
+              "RelativeToolTip": "LeVCarStore\\Models\\KhachHang.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:26:01.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DanhMuc.cs",
+              "DocumentMoniker": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Models\\DanhMuc.cs",
+              "RelativeDocumentMoniker": "LeVCarStore\\Models\\DanhMuc.cs",
+              "ToolTip": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Models\\DanhMuc.cs",
+              "RelativeToolTip": "LeVCarStore\\Models\\DanhMuc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:24:37.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "LeVCarStore\\Models\\SanPham.cs",
+              "ToolTip": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Models\\SanPham.cs",
+              "RelativeToolTip": "LeVCarStore\\Models\\SanPham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:24:15.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Web.Release.config",
+              "RelativeDocumentMoniker": "LeVCarStore\\Web.Release.config",
+              "ToolTip": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Web.Release.config",
+              "RelativeToolTip": "LeVCarStore\\Web.Release.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-04T19:04:36.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Web.Debug.config",
+              "RelativeDocumentMoniker": "LeVCarStore\\Web.Debug.config",
+              "ToolTip": "C:\\Users\\vanyzy\\source\\repos\\K22CNTT4-TTCD1-LeDoanQuocVan-2210900078\\LeVCarStore\\LeVCarStore\\Web.Debug.config",
+              "RelativeToolTip": "LeVCarStore\\Web.Debug.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-04T19:03:31.422Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+CREATE TABLE DanhMuc (
+    DanhMucID INT PRIMARY KEY IDENTITY,
+    TenDanhMuc NVARCHAR(100) NOT NULL,
+    MoTa NVARCHAR(255)
+);
+
+CREATE TABLE SanPham (
+    SanPhamID INT PRIMARY KEY IDENTITY,
+    TenSanPham NVARCHAR(100) NOT NULL,
+    MoTa NVARCHAR(MAX),
+    Gia DECIMAL(18, 2) NOT NULL,
+    HinhAnh NVARCHAR(255),
+    SoLuongTon INT NOT NULL,
+    DanhMucID INT,
+    FOREIGN KEY (DanhMucID) REFERENCES DanhMuc(DanhMucID)
+);
+CREATE TABLE KhachHang (
+    KhachHangID INT PRIMARY KEY IDENTITY,
+    HoTen NVARCHAR(100) NOT NULL,
+    Email NVARCHAR(100) NOT NULL UNIQUE,
+    SoDienThoai NVARCHAR(15),
+    DiaChi NVARCHAR(255),
+    NgayDangKy DATETIME DEFAULT GETDATE()
+);
+CREATE TABLE DonHang (
+    DonHangID INT PRIMARY KEY IDENTITY,
+    KhachHangID INT NOT NULL,
+    NgayDatHang DATETIME DEFAULT GETDATE(),
+    TongTien DECIMAL(18, 2) NOT NULL,
+    TrangThai NVARCHAR(50),
+    FOREIGN KEY (KhachHangID) REFERENCES KhachHang(KhachHangID)
+);
+CREATE TABLE ChiTietDonHang (
+    ChiTietID INT PRIMARY KEY IDENTITY,
+    DonHangID INT NOT NULL,
+    SanPhamID INT NOT NULL,
+    SoLuong INT NOT NULL,
+    GiaBan DECIMAL(18, 2) NOT NULL,
+    FOREIGN KEY (DonHangID) REFERENCES DonHang(DonHangID),
+    FOREIGN KEY (SanPhamID) REFERENCES SanPham(SanPhamID)
+);
+CREATE TABLE KhuyenMai (
+    KhuyenMaiID INT PRIMARY KEY IDENTITY,
+    MaKhuyenMai NVARCHAR(50) UNIQUE,
+    MoTa NVARCHAR(255),
+    PhanTramGiamGia DECIMAL(5, 2) CHECK (PhanTramGiamGia BETWEEN 0 AND 100),
+    NgayBatDau DATETIME,
+    NgayKetThuc DATETIME,
+    ApDungChoTatCa BIT DEFAULT 0
+);
+CREATE TABLE VanChuyen (
+    VanChuyenID INT PRIMARY KEY IDENTITY,
+    DonHangID INT NOT NULL,
+    TrangThai NVARCHAR(50),
+    NgayGuiHang DATETIME,
+    NgayNhanHang DATETIME,
+    MaVanChuyen NVARCHAR(50),
+    DiaChiGiaoHang NVARCHAR(255),
+    FOREIGN KEY (DonHangID) REFERENCES DonHang(DonHangID)
+);
+CREATE TABLE KhoHang (
+    KhoHangID INT PRIMARY KEY IDENTITY,
+    SanPhamID INT NOT NULL,
+    SoLuongTonKho INT NOT NULL,
+    ViTriKho NVARCHAR(100),
+    FOREIGN KEY (SanPhamID) REFERENCES SanPham(SanPhamID)
+);
+CREATE TABLE ThanhToan (
+    ThanhToanID INT PRIMARY KEY IDENTITY,
+    DonHangID INT NOT NULL,
+    NgayThanhToan DATETIME DEFAULT GETDATE(),
+    SoTien DECIMAL(18, 2) NOT NULL,
+    PhuongThuc NVARCHAR(50),
+    TrangThai NVARCHAR(50),
+    FOREIGN KEY (DonHangID) REFERENCES DonHang(DonHangID)
+);
+CREATE TABLE YeuThich (
+    YeuThichID INT PRIMARY KEY IDENTITY,
+    KhachHangID INT NOT NULL,
+    SanPhamID INT NOT NULL,
+    NgayThem DATETIME DEFAULT GETDATE(),
+    FOREIGN KEY (KhachHangID) REFERENCES KhachHang(KhachHangID),
+    FOREIGN KEY (SanPhamID) REFERENCES SanPham(SanPhamID)
+);

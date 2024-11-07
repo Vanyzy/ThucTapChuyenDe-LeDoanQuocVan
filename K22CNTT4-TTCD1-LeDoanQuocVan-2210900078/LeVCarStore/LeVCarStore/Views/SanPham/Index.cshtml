@@ -1,0 +1,20 @@
+﻿@model IEnumerable<LeVCarStore.Models.SanPham>
+
+<h2>Danh Sách Sản Phẩm</h2>
+
+<div class="row">
+    @foreach (var sanPham in Model)
+    {
+        <div class="col-md-3">
+            <div class="card">
+                <img src="@sanPham.HinhAnh" alt="@sanPham.TenSanPham" class="card-img-top" />
+                <div class="card-body">
+                    <h5 class="card-title">@sanPham.TenSanPham</h5>
+                    <p class="text-primary">@sanPham.Gia.ToString("C")</p>
+                    <a href="@Url.Action("Details", new { id = sanPham.SanPhamID })" class="btn btn-primary">Xem chi tiết</a>
+                </div>
+            </div>
+        </div>
+    }
+    }
+</div>

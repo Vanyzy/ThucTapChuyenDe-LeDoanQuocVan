@@ -1,0 +1,16 @@
+﻿@model LeVCarStore.Models.SanPham
+
+<h2>@Model.TenSanPham</h2>
+
+<div class="row">
+    <div class="col-md-6">
+        <img src="@Model.HinhAnh" alt="@Model.TenSanPham" class="img-fluid" />
+    </div>
+    <div class="col-md-6">
+        <p><strong>Giá:</strong> @Model.Gia.ToString("C")</p>
+        <p><strong>Mô tả:</strong> @Model.MoTa</p>
+        <form action="@Url.Action("AddToCart", "Cart", new { id = Model.SanPhamID })" method="post">
+            <button type="submit" class="btn btn-success">Thêm vào giỏ hàng</button>
+        </form>
+    </div>
+</div>

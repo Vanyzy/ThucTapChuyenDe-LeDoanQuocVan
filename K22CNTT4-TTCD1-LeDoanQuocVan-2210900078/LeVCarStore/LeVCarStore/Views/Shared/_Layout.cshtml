@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <title>LeVCarStore</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>LeVCarStore</h1>
+            <nav>
+                <ul class="nav nav-pills">
+                    <li>@Html.ActionLink("Trang Chủ", "Index", "Home")</li>
+                    <br />
+                    <li>@Html.ActionLink("Sản Phẩm", "Index", "SanPham")</li>
+                    <br />
+                    <li>@Html.ActionLink("Giỏ Hàng", "Index", "Cart")</li>
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            @RenderBody()
+        </main>
+
+        <footer>
+            <p>&copy; 2024 LeVCarStore. Tất cả các quyền được bảo lưu.</p>
+        </footer>
+    </div>
+</body>
+</html>

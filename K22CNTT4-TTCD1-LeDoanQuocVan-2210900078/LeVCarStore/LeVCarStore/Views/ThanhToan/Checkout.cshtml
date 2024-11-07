@@ -1,0 +1,41 @@
+﻿@model List<LeVCarStore.Models.ChiTietDonHang>
+
+<h2>Thanh Toán</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Sản Phẩm</th>
+            <th>Số Lượng</th>
+            <th>Giá</th>
+            <th>Tổng</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.SanPham.TenSanPham</td>
+                <td>@item.SoLuong</td>
+                <td>@item.Gia.ToString("C")</td>
+                <td>@(item.SoLuong * item.Gia).ToString("C")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p><strong>Tổng cộng: </strong>@Model.Sum(i => i.SoLuong * i.Gia).ToString("C")</p>
+
+<form action="@Url.Action("ProcessCheckout")" method="post">
+    <div class="form-group">
+        <label for="DiaChi">Địa chỉ giao hàng:</label>
+        <input type="text" id="DiaChi" name="DiaChi" class="form-control" required />
+    </div>
+
+    <div class="form-group">
+        <label for="SoDienThoai">Số điện thoại:</label>
+        <input type="text" id="SoDienThoai" name="SoDienThoai" class="form-control" required />
+    </div>
+
+    <button type="submit" class="btn btn-success">Hoàn tất thanh toán</button>
+</form>
