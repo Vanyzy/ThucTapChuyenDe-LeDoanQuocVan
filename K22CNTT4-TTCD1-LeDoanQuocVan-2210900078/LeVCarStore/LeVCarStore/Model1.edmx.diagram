@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ff6e4632c8794021b625c48040707aaa" Name="Diagram1">
+        <EntityTypeShape EntityType="LeVCarStoreModel.ChiTietDonHang" Width="1.5" PointX="5.25" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="LeVCarStoreModel.DanhMuc" Width="1.5" PointX="0.75" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="LeVCarStoreModel.DonHang" Width="1.5" PointX="3" PointY="8.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="LeVCarStoreModel.KhachHang" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LeVCarStoreModel.KhoHang" Width="1.5" PointX="5.25" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="LeVCarStoreModel.KhuyenMai" Width="1.5" PointX="7.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="LeVCarStoreModel.SanPham" Width="1.5" PointX="3" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="LeVCarStoreModel.sysdiagram" Width="1.5" PointX="7.75" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="LeVCarStoreModel.ThanhToan" Width="1.5" PointX="5.25" PointY="11.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="LeVCarStoreModel.VanChuyen" Width="1.5" PointX="5.25" PointY="14.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="LeVCarStoreModel.YeuThich" Width="1.5" PointX="5.25" PointY="2" IsExpanded="true" />
+        <AssociationConnector Association="LeVCarStoreModel.FK__ChiTietDo__DonHa__5BE2A6F2" ManuallyRouted="false" />
+        <AssociationConnector Association="LeVCarStoreModel.FK__ChiTietDo__SanPh__5CD6CB2B" ManuallyRouted="false" />
+        <AssociationConnector Association="LeVCarStoreModel.FK__SanPham__DanhMuc__5165187F" ManuallyRouted="false" />
+        <AssociationConnector Association="LeVCarStoreModel.FK__DonHang__KhachHa__59063A47" ManuallyRouted="false" />
+        <AssociationConnector Association="LeVCarStoreModel.FK__ThanhToan__DonHa__6B24EA82" ManuallyRouted="false" />
+        <AssociationConnector Association="LeVCarStoreModel.FK__VanChuyen__DonHa__6477ECF3" ManuallyRouted="false" />
+        <AssociationConnector Association="LeVCarStoreModel.FK__YeuThich__KhachH__6EF57B66" ManuallyRouted="false" />
+        <AssociationConnector Association="LeVCarStoreModel.FK__KhoHang__SanPham__6754599E" ManuallyRouted="false" />
+        <AssociationConnector Association="LeVCarStoreModel.FK__YeuThich__SanPha__6FE99F9F" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
